@@ -1,0 +1,63 @@
+﻿"ID",Grupo,Tamaño,Descripccion
+El Huevo,concepto,3,"Centro del mapa. Un objeto cotidiano que sirve para hablar de lenguaje, origen, cuerpo, comida, economía, arte y pensamiento."
+Léxico,tema,2,"En el español se usa, ""el huevo"" para hablar de mucho especialmente con ciertos manerisimos, ""huevon"", ""hueva"" etc."
+Origen,tema,2,"El huevo como principio: de la vida, de la especie humana, de las palabras y del mundo en los mitos."
+Filosofía,tema,2,"El huevo como problema de pensamiento: causa y efecto, potencia, fragilidad, irreversibilidad y nacimiento."
+Mito y Religión,tema,2,"Casi todas las culturas usan el huevo para explicar el origen del mundo, la resurrección o la limpieza del cuerpo."
+Alimentación y sus problemas,tema,2,"El huevo como comida básica y también como producto de una industria con costos para animales, salud y medio ambiente."
+Química y Cocina,tema,2,"Lo que pasa dentro del huevo cuando se cocina, se bate o se mezcla, y cómo eso llegó hasta la pintura."
+Arte y Cultura,tema,2,"El huevo como material, símbolo y objeto en la pintura, la escultura y el diseño."
+Cuerpo y Género,tema,2,"El huevo nombra al mismo tiempo el testículo y el óvulo. Desde ahí se cruzan sexualidad, fertilidad y control del cuerpo."
+Economía,tema,2,"El huevo como termómetro del costo de vida en México: precio, producción, crisis y concentración de la industria."
+Política,tema,2,"El huevo como asunto de Estado (precios, canasta básica, regulación) y como arma de protesta."
+Belleza,tema,2,"El huevo en rituales de belleza, en el ideal del rostro ovalado y en productos de bienestar polémicos."
+Forma y Diseño,tema,2,"El óvalo como forma eficiente: resiste presión, contiene, protege y se volvió referencia para objetos y diseño."
+Ahuevo,pieza,1,"Mexicanismo de afirmación total: claro que sí. También a huevo significa a la fuerza, por obligación."
+Mexicanismos,pieza,1,"Huevón (flojo), me vale un huevo (desprecio), costar un huevo (muy caro), estar del huevo (mal), tener huevos (valentía)."
+Refranes,pieza,1,"No poner todos los huevos en la misma canasta, matar a la gallina de los huevos de oro, andar pisando huevos."
+Huevo de Colón,pieza,1,"Según la anécdota, Colón paró un huevo aplastando su base. Nombra una solución que parece obvia solo después de verla."
+Etimología,pieza,1,"Del latín ovum. De ahí vienen óvalo, óvulo, ovario y ovíparo. En náhuatl se dice totoltetl, de totolin (ave) y tetl (piedra): piedra de ave."
+Gallina o Huevo,pieza,1,Aristóteles y Plutarco ya lo discutían. Para la biología evolutiva fue primero el huevo: los reptiles ponían huevos millones de años antes de que existiera la gallina.
+Omne vivum ex ovo,pieza,1,"Todo lo vivo viene del huevo. William Harvey, 1651, cuando nadie había visto todavía un óvulo de mamífero."
+Óvulo humano,pieza,1,"La célula más grande del cuerpo humano, apenas visible a simple vista. Cada persona empezó como un huevo."
+Huevo amniótico,pieza,1,"Hace más de 300 millones de años un huevo con cascarón y líquido propio permitió a los animales reproducirse lejos del agua. De ahí vienen reptiles, aves y mamíferos."
+Falo y huevos,pieza,1,"El huevo como símbolo sexual doble: testículo en el habla, óvulo en la biología. Masculinidad, potencia y reproducción en una misma palabra."
+Potencia y acto,pieza,1,"Aristóteles: el huevo es un pollo en potencia, algo que todavía no es pero ya contiene lo que será."
+Entropía,pieza,1,Un huevo roto no se recompone solo. Es el ejemplo clásico de la flecha del tiempo: hay procesos que solo van en una dirección.
+Nacer es romper,pieza,1,"En Demian de Hermann Hesse el pájaro tiene que romper el cascarón para nacer, y el cascarón es el mundo. Crecer implica destruir lo que te protegía."
+Fragilidad,pieza,1,El cascarón protege y al mismo tiempo se rompe fácil. Lo que guarda la vida es también lo más vulnerable.
+Cuerpo sin Órganos (Deleuze),pieza,1,Concepto de Artaud retomado por Deleuze y Guattari en Mil mesetas. Lo describen como un huevo: un cuerpo de puras intensidades antes de que se fijen órganos y funciones.
+Huevo cósmico,pieza,1,"El universo nace de un huevo: Hiranyagarbha en la India, Pangu en China, Fanes en el orfismo griego, el huevo de pato del Kalevala finlandés."
+Leda y el cisne,pieza,1,"Zeus en forma de cisne se une a Leda, que pone huevos de donde nacen Helena de Troya y los Dioscuros."
+Pascua,pieza,1,"Huevos pintados como símbolo de resurrección cristiana, montado sobre ritos de primavera más antiguos."
+Limpia con huevo,pieza,1,Ritual de medicina tradicional mexicana: se pasa un huevo por el cuerpo para absorber el mal y luego se rompe en un vaso de agua para leerlo.
+Industria avícola,pieza,1,"Gallinas en jaulas de batería, seleccionadas para poner cerca de un huevo diario. Su ancestro salvaje pone apenas unos pocos al año."
+Pollitos macho desechados,pieza,1,"Los machos de raza ponedora no ponen ni sirven para carne, así que se sacrifican al nacer. Alemania y Francia ya prohibieron esta práctica."
+Gripe aviar,pieza,1,Brotes que obligan a sacrificar millones de aves. En 2012 un brote en Jalisco disparó el precio del huevo en todo México.
+Proteína barata,pieza,1,Una de las proteínas completas más accesibles. Para muchas familias el huevo es lo que hay cuando no alcanza para carne.
+Mito del colesterol,pieza,1,Durante décadas se recomendó limitarlo. Las guías alimentarias de EE.UU. quitaron el límite de colesterol en 2015. Lo sano también cambia.
+Rancho vs industrial,pieza,1,"El color del cascarón depende de la raza, no de la calidad. El de la yema depende de la dieta: la industria mexicana usa cempasúchil en el alimento para pintarla."
+Desnaturalización,pieza,1,El calor deshace la estructura de las proteínas y la clara pasa de transparente a blanca. Es un cambio que no tiene vuelta atrás.
+Emulsión,pieza,1,"La lecitina de la yema une agua y grasa, que normalmente se separan. Así existe la mayonesa."
+Clara a punto de nieve,pieza,1,"Al batir, las proteínas atrapan aire y forman una espuma estable. Base de merengues y soufflés."
+Temple al huevo,pieza,1,"Pintura hecha con pigmento y yema. Fue la técnica dominante en Europa antes del óleo, en íconos y retablos."
+Pala di Brera,pieza,1,"Piero della Francesca, siglo XV: un huevo de avestruz cuelga sobre la Virgen. Símbolo de creación, nacimiento virginal y perfección."
+La clarividencia (Magritte),pieza,1,1936. Magritte mira un huevo y pinta un pájaro volando: pintar lo que algo va a ser y no lo que es.
+Dalí en Figueres,pieza,1,"Huevos gigantes coronan el Teatro-Museo Dalí. Para él el huevo era vida prenatal, el paraíso perdido del útero."
+El comienzo del mundo (Brancusi),pieza,1,Escultura de 1920: un óvalo pulido sin nada más. Reducir la forma hasta llegar al origen.
+Huevo Fabergé,pieza,1,"Joyas en forma de huevo hechas para los zares de Rusia como regalo de Pascua. El huevo como lujo, poder y fin de un imperio."
+Silla huevo,pieza,1,"Egg Chair de Arne Jacobsen, 1958. Una silla que envuelve al cuerpo como un cascarón."
+Tamaño de huevo,pieza,1,"En el mercado se paga más por el huevo grande. En el habla, tener los huevos grandes es ser más hombre. El tamaño como valor económico y masculino."
+Congelación de óvulos,pieza,1,"Detener el reloj biológico. El huevo humano convertido en algo que se guarda, se paga y se planea."
+Proteína feminizada,pieza,1,Carol J. Adams llama así al huevo y la leche: alimentos que salen de cuerpos de hembras explotados por su capacidad reproductiva.
+Canasta básica,pieza,1,El huevo está en la canasta básica mexicana. Su precio pega directo en el bolsillo de las familias de menos ingresos.
+Precio del huevo,pieza,1,"Funciona como termómetro de la inflación. Cuando sube, se vuelve tema de noticieros y de gobierno."
+Los Altos de Jalisco,pieza,1,"La región que concentra buena parte de la producción de huevo del país, en manos de pocas empresas grandes."
+Aventar huevos,pieza,1,Forma clásica de protesta contra políticos y figuras públicas: humilla sin herir.
+Tener huevos en política,pieza,1,La valentía política se dice con huevos. El poder se describe con lenguaje del cuerpo masculino.
+Mascarilla de huevo,pieza,1,Receta casera: la clara tensa la piel por un rato y la yema se usa en el cabello. Belleza hecha con comida.
+Rostro ovalado,pieza,1,Desde el Renacimiento el óvalo se trata como el rostro ideal. El maquillaje y el contorno buscan acercarse a esa forma.
+Huevo de jade,pieza,1,Producto de bienestar que Goop vendió con promesas de salud femenina sin sustento y por el que tuvo que pagar una multa. El cuerpo de la mujer como mercado.
+El óvalo,pieza,1,Forma sin esquinas ni lados planos. Contiene el máximo volumen con poca superficie y no tiene un punto débil evidente.
+Resistencia del cascarón,pieza,1,"Por su curvatura el cascarón aguanta mucha presión en las puntas, como un arco o una cúpula. Se rompe fácil de lado y casi nada de punta."
+Cartón de huevo,pieza,1,Lo inventó Joseph Coyle en Canadá en 1911 para que los huevos dejaran de llegar rotos. Diseño pensado para proteger lo frágil.
